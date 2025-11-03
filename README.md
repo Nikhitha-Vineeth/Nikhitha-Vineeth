@@ -5,7 +5,8 @@
 ### 🌱 What I'm Learning
 - Python for data analysis  
 - Econometrics & statistics  
-- Behavioral economics  
+- FinTech
+- Securities analysis  
 
 
 📫 Connect with Me
