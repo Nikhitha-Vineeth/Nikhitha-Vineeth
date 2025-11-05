@@ -12,4 +12,4 @@
 📫 Connect with Me
 LinkedIn - https://www.linkedin.com/in/nikhitha-vineeth-662886335/
 
-Gmail - nikhithavin@gmail.com
+📥 Gmail - nikhithavin@gmail.com
